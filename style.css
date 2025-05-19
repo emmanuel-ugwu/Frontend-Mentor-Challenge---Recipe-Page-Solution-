@@ -73,6 +73,10 @@ h1{
 .instructions{
   padding: 2rem 0;
 }
+.instructions ol li::marker,
+.ingredients ul li::marker{
+  color: var(--Brown_800);
+}
 .sub_{
   color: var(--Brown_800);
 }
