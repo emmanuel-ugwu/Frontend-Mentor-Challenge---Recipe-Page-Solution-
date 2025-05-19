@@ -113,6 +113,6 @@ a{
   text-decoration: none;
   color: var(--Brown_800);
 }
-a::hover{
+a:hover{
   color: var(--Rose_800);
 }
